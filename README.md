@@ -45,6 +45,6 @@ IVR могут параллельно обрабатывать большое к
 
 <h3>ER модель IVR системы</h3>
 
-<img src="https://github.com/otkisider/ZverevAS-progtech/blob/main/ER.png"></img>
+<img src="https://github.com/otkisider/ZverevAS-progtech/blob/main/ER.jpg"></img>
 
 
