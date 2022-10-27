@@ -47,4 +47,7 @@ IVR могут параллельно обрабатывать большое к
 
 <img src="https://github.com/otkisider/ZverevAS-progtech/blob/main/ER.jpg"></img>
 
+Ознакомиться с тем, что такое BPMN и ER модель можно по перейдя по ссылкам: 
+https://www.lucidchart.com/pages/ru/bpmn
+https://www.lucidchart.com/pages/ru/erd-диаграмма
 
