@@ -41,7 +41,7 @@ IVR могут параллельно обрабатывать большое к
 
 <h3>BPMN модель IVR системы</h3>
 
-(https://github.com/otkisider/ZverevAS-progtech/raw/master/IVR.png)
+<img src="https://github.com/otkisider/ZverevAS-progtech/blob/main/IVR.png" style="width=2600px; height=2600px;"></img>
 
 
 
