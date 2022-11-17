@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\tp2\programlab2\bin\Debug\net6.0\programlab2.exe
+C:\Users\admin\Desktop\tp2\programlab2\bin\Debug\net6.0\programlab2.deps.json
+C:\Users\admin\Desktop\tp2\programlab2\bin\Debug\net6.0\programlab2.runtimeconfig.json
+C:\Users\admin\Desktop\tp2\programlab2\bin\Debug\net6.0\programlab2.dll
+C:\Users\admin\Desktop\tp2\programlab2\bin\Debug\net6.0\programlab2.pdb
+C:\Users\admin\Desktop\tp2\programlab2\obj\Debug\net6.0\programlab2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\tp2\programlab2\obj\Debug\net6.0\programlab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\tp2\programlab2\obj\Debug\net6.0\programlab2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\tp2\programlab2\obj\Debug\net6.0\programlab2.AssemblyInfo.cs
+C:\Users\admin\Desktop\tp2\programlab2\obj\Debug\net6.0\programlab2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\tp2\programlab2\obj\Debug\net6.0\programlab2.dll
+C:\Users\admin\Desktop\tp2\programlab2\obj\Debug\net6.0\refint\programlab2.dll
+C:\Users\admin\Desktop\tp2\programlab2\obj\Debug\net6.0\programlab2.pdb
+C:\Users\admin\Desktop\tp2\programlab2\obj\Debug\net6.0\programlab2.genruntimeconfig.cache
+C:\Users\admin\Desktop\tp2\programlab2\obj\Debug\net6.0\ref\programlab2.dll
