@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 100,
+    "Name": "Kiril",
+    "Scnd_name": "Bolshoy",
+    "Phone": 89103834323,
+    "ID_ivr": {
+      "ID_ivr": 15,
+      "Credit_limit": 123123123,
+      "Current_credit": 15151515
+    }
+  },
+  {
+    "Id": 100,
+    "Name": "Kiril",
+    "Scnd_name": "Bolshoy",
+    "Phone": 89103834323,
+    "ID_ivr": {
+      "ID_ivr": 15,
+      "Credit_limit": 123123123,
+      "Current_credit": 15151515
+    }
+  },
+  {
+    "Id": 100,
+    "Name": "Kiril",
+    "Scnd_name": "Bolshoy",
+    "Phone": 89103834323,
+    "ID_ivr": {
+      "ID_ivr": 15,
+      "Credit_limit": 123123123,
+      "Current_credit": 15151515
+    }
+  },
+  {
+    "Id": 100,
+    "Name": "Kiril",
+    "Scnd_name": "Bolshoy",
+    "Phone": 89103834323,
+    "ID_ivr": {
+      "ID_ivr": 15,
+      "Credit_limit": 123123123,
+      "Current_credit": 15151515
+    }
+  },
+  {
+    "Id": 100,
+    "Name": "Kiril",
+    "Scnd_name": "Bolshoy",
+    "Phone": 89103834323,
+    "ID_ivr": {
+      "ID_ivr": 15,
+      "Credit_limit": 123123123,
+      "Current_credit": 15151515
+    }
+  }
+]

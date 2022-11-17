@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\tp2\\programlab2\\programlab2.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\lab2\\programlab2\\programlab2.csproj",
       "projectName": "programlab2",
-      "projectPath": "C:\\Users\\admin\\Desktop\\tp2\\programlab2\\programlab2.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\lab2\\programlab2\\programlab2.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\tp2\\programlab2\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\lab2\\programlab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
