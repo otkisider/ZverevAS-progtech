@@ -42,10 +42,10 @@ IVR могут параллельно обрабатывать большое к
 BPMN и ER модели IVR системы(рис.1, рис.2)
 
 <img src="https://github.com/otkisider/ZverevAS-progtech/blob/main/IVR.png" style="width=2600px; height=2600px;"></img>
-<p style="text-align:center;">рис.1 BPMN модель IVR системы</p>
+<p style="text-align: center;">рис.1 BPMN модель IVR системы</p>
 
 <img src="https://github.com/otkisider/ZverevAS-progtech/blob/main/ER.jpg"></img>
-<p style="text-align:center;">рис.2 ER модель IVR сисетмы</p>
+<p style="text-align: center;">рис.2 ER модель IVR сисетмы</p>
 
 Ознакомиться с тем, что такое BPMN и ER модель можно по перейдя по ссылкам: 
 https://www.lucidchart.com/pages/ru/bpmn
